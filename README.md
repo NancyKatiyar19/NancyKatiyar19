@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14vAkoZ77VgZ8NKfiKl8rQSUHA5kQn5GG/view?usp=drive_link](https://drive.google.com/file/d/14vAkoZ77VgZ8NKfiKl8rQSUHA5kQn5GG/view?usp=drive_link)
 
-- ⚡ Fun fact: **Trying to debug life**
+- ⚡ Fun fact : **Trying to debug life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
